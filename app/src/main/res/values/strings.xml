@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudentRent</string>
+    <string name="title_activity_buttons">ButtonsActivity</string>
+    <string name="title_activity_main_menu">MainActivityMenu</string>
+</resources>
